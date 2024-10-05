@@ -34,10 +34,6 @@ Follow these steps to get the project up and running on your local environment.
 ### Installation
 
 1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/your-username/cross-chain-swap-dapp.git
-   ```
 2. **Navigate to the project directory:**
     cd swapsies
 
