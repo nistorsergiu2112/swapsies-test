@@ -10,7 +10,7 @@ const theme = createTheme({
       main: '#dc004e', // Customize your secondary color
     },
     background: {
-      default: '#f5f5f5', // Set a default background color
+      default: '#f5f5f5',
     },
   },
   typography: {
