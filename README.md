@@ -35,7 +35,9 @@ Follow these steps to get the project up and running on your local environment.
 
 1. **Clone the repository:**
 2. **Navigate to the project directory:**
-    cd swapsies-test
+
+    ```bash
+        cd swapsies-test
 
 3. **Install dependencies:**
  
