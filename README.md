@@ -37,16 +37,18 @@ Follow these steps to get the project up and running on your local environment.
 
    ```bash
    git clone https://github.com/your-username/cross-chain-swap-dapp.git
-
+   ```
 2. **Navigate to the project directory:**
     cd swapsies
 
 3. **Install dependencies:**
- ```npm install```
-
+ 
+    ```bash
+        npm install
+        npm run start
+    
 ### Important Notes
 
 	•	MetaMask Integration: The application is integrated with MetaMask for wallet connection. Ensure MetaMask is installed and connected to your preferred network.
 	•	Chain and Token Compatibility: The app uses the LI.FI SDK to fetch token compatibility and supported routes. Make sure to set the correct chains and tokens for smooth operations. The application is not filtering out incompatible chains/tokens yet ( future feature )
 
-    
